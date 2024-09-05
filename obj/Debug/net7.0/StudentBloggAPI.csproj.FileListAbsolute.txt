@@ -1,0 +1,168 @@
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\appsettings.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.exe
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.deps.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.runtimeconfig.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.pdb
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.AssemblyReference.cache
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfoInputs.cache
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfo.cs
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CoreCompileInputs.cache
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentBloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentBloggAPI.props
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentBloggAPI.props
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentBloggAPI.props
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\scopedcss\bundle\StudentBloggAPI.styles.css
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CopyComplete
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\refint\StudentBloggAPI.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.pdb
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.genruntimeconfig.cache
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\obj\Debug\net7.0\ref\StudentBloggAPI.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Humanizer.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\3.Termin\MestOppdatert\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.exe
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.deps.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.runtimeconfig.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.pdb
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.AssemblyReference.cache
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfoInputs.cache
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfo.cs
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CoreCompileInputs.cache
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentBloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentBloggAPI.props
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentBloggAPI.props
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentBloggAPI.props
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\scopedcss\bundle\StudentBloggAPI.styles.css
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CopyComplete
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\refint\StudentBloggAPI.dll
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.pdb
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.genruntimeconfig.cache
+C:\Users\rayan\Downloads\Uke39 (2) (1)\Uke39\StudentBloggAPI\obj\Debug\net7.0\ref\StudentBloggAPI.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\StudentBloggAPI\bin\Debug\net7.0\appsettings.json
+C:\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.exe
+C:\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.deps.json
+C:\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.runtimeconfig.json
+C:\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.pdb
+C:\StudentBloggAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Humanizer.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\StudentBloggAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.AssemblyReference.cache
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfoInputs.cache
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfo.cs
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CoreCompileInputs.cache
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentBloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentBloggAPI.props
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentBloggAPI.props
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentBloggAPI.props
+C:\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\StudentBloggAPI\obj\Debug\net7.0\scopedcss\bundle\StudentBloggAPI.styles.css
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentB.CB33FD3E.Up2Date
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.dll
+C:\StudentBloggAPI\obj\Debug\net7.0\refint\StudentBloggAPI.dll
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.pdb
+C:\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.genruntimeconfig.cache
+C:\StudentBloggAPI\obj\Debug\net7.0\ref\StudentBloggAPI.dll
